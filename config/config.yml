@@ -3,4 +3,5 @@
 JUDGMENTS_RAW_DIR: judgments_raw             # directory with TAR judgments in HTML
 JUDGMENTS_EXT: html
 JUDGMENTS_CLEAN_DIR: judgments_clean         # directory with TAR judgments in CSV
-PQM_FILE_NAME: pqm.csv
+PQM_FILE_TEXTS: pqm_texts.csv
+PQM_FILE_LABELS: pqm_labels.csv

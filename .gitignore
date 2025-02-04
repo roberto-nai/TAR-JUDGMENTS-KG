@@ -163,6 +163,7 @@ cython_debug/
 _old/
 _todo/
 **/.DS_Store
+**/.env
 
 # Ignore every file in the directory
 judgments_clean/*
@@ -171,3 +172,6 @@ judgments_raw/*
 # But do not ignore the directory itself
 !judgments_clean/.gitkeep
 !judgments_raw/.gitkeep
+
+# Env
+.env
